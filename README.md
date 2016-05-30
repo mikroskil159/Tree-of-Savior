@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tree of Savior
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -15,3 +16,6 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
+=======
+# Tree-of-Savior
+>>>>>>> 64104347dab494f14ee3c811033b62d505de28fa
