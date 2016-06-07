@@ -38,7 +38,7 @@ daily scrum
 =================================================
 
 05/06/2016
-1 Vincent : "bagian 1 , 2 mengenai job class dan menjelaskan cara push dan pull"
+1 Vincent : "bagian 1 , 2 ,3mengenai job class dan menjelaskan cara push dan pull"
 2 Calvin Setiawan : "mulai menginstal node.js bespoke github"
 3 Steven : "mulai menginstal node.js bespoke github"
 4 Riady : "mulai menginstal node.js bespoke github"
@@ -46,7 +46,7 @@ daily scrum
 =================================================
 
 06/06/2016
-1 Vincent : "bagian 3 , 4 mengenai job class stats skill dan penutup"
+1 Vincent : "bagian 4, 5, 6 mengenai job class stats skill dan penutup"
 2 Calvin Setiawan : "mulai melakukan pull dan push"
 3 Steven : "install bermasalah "
 4 Riady : ".............."
