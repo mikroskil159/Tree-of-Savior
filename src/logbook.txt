@@ -1,0 +1,54 @@
+==================Presentasi Mengenai Tree of Savior ===============================
+nama  kelompok : Tosgamer
+
+judul kelompok : Tree of Saior
+
+alamat github : https://github.com/mikroskil159/Tree-of-Savior atau link https://github.com/mikroskil159/Tree-of-Savior.git
+
+alamat trello :https://trello.com/b/5MhJmZBS/source-sumber
+
+Spring 1 minggu > Scrumaster : Vincent - 14.111.0604
+
+diupdate pada tanggal 2 juni 2016 (dikarenakan kurang paham penggunaan github)
+
+
+daily scrum
+02/06/2016
+1 Vincent : "instal node.js bespoke github"
+2 Calvin Setiawan : "............"
+3 Steven : "..............."
+4 Riady : "..............."
+
+================================================
+
+03/06/2016
+1 Vincent : "Mencari pokok pembahasan"
+2 Calvin Setiawan : "............"
+3 Steven : "..............."
+4 Riady : "..............."
+
+================================================
+
+04/06/2016
+1 Vincent : "mulai mengerjakan project msh mengedit bagian nim "
+2 Calvin Setiawan : "............"
+3 Steven : "..............."
+4 Riady : "..............."
+
+=================================================
+
+05/06/2016
+1 Vincent : "bagian 1 , 2 mengenai job class dan menjelaskan cara push dan pull"
+2 Calvin Setiawan : "mulai menginstal node.js bespoke github"
+3 Steven : "mulai menginstal node.js bespoke github"
+4 Riady : "mulai menginstal node.js bespoke github"
+
+=================================================
+
+06/06/2016
+1 Vincent : "bagian 3 , 4 mengenai job class stats skill dan penutup"
+2 Calvin Setiawan : "mulai melakukan pull dan push"
+3 Steven : "install bermasalah "
+4 Riady : ".............."
+
+=================================================
